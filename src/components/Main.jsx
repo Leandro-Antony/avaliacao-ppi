@@ -1,5 +1,5 @@
 import Card from "./Card";
-import styles from "./CardList.module.css";
+import styles from "./Main.module.css";
 
 export default function CardList() {
   const cards = [
